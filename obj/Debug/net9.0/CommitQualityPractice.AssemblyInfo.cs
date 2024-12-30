@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommitQualityPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84ac8918a9a1aab6730bdc05503bb4921192426c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommitQualityPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommitQualityPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
